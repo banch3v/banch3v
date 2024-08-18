@@ -44,11 +44,10 @@ Now, I challenge myself daily to expand my knowledge, solve complex problems, an
 
 ### 🤝 Lets connect
 
-🔗 LinkedIn: https://www.linkedin.com/in/ivelin-banchev/ </br>
+🔗 LinkedIn: https://www.linkedin.com/in/ivelin-banchev/ <br>
 📧 Email: ivelin.banchev@gmail.com
 
 <hr>
-<br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/banch3v?theme=dark&font=Noto%20Sans)  
-[![](https://visitcount.itsvg.in/api?id=banch3v&label=Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/banch3v?theme=dark&font=Noto%20Sans)  
+[![Visitor Count](https://visitcount.itsvg.in/api?id=banch3v&label=Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
