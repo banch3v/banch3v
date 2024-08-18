@@ -49,5 +49,5 @@ Now, I challenge myself daily to expand my knowledge, solve complex problems, an
 
 <hr>
 <br>
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/banch3v?theme=dark&font=Noto%20Sans)
 [![](https://visitcount.itsvg.in/api?id=banch3v&label=Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
