@@ -49,6 +49,6 @@ Now, I challenge myself daily to expand my knowledge, solve complex problems, an
 
 <hr>
 <br>
-![Leetcode Stats](https://leetcard.jacoblin.cool/banch3v)
+
 <br>
 [![](https://visitcount.itsvg.in/api?id=banch3v&label=Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
