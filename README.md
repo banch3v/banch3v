@@ -46,7 +46,6 @@ Now, I challenge myself daily to expand my knowledge, solve complex problems, an
 ### 🤝 Lets connect
 
 🔗 LinkedIn: https://www.linkedin.com/in/ivelin-banchev/ <br>
-📧 Email: ivelin.banchev@gmail.com
 
 <hr>
 
