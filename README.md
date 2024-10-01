@@ -33,8 +33,8 @@ Now, I challenge myself daily to expand my knowledge, solve complex problems, an
 
 ### 🌱 My 2024 Q3 & Q4 goals
 
-• Complete my portfolio website <br>
-• Enroll in a TypeScript course <br>
+• ~~Complete my portfolio website~~ <br>
+• ~~Enroll in a TypeScript course~~ <br>
 • Enroll in a full React course (incl. Next.js & Redux) & React Native <br>
 • Enroll in a database course (haven't decided what DB technology to start with yet) <br>
 • Work on my personal project for a car monitoring & maintenance platform <br>
