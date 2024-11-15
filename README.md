@@ -24,10 +24,14 @@ Now, I challenge myself daily to expand my knowledge, solve complex problems, an
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/chakra--ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![NextUI](https://img.shields.io/badge/nextui-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
 
 <hr>
 
@@ -43,9 +47,10 @@ Now, I challenge myself daily to expand my knowledge, solve complex problems, an
 
 <hr>
 
-### 🤝 Lets connect
+### 🤝 Let's connect
 
-🔗 LinkedIn: https://www.linkedin.com/in/ivelin-banchev/ <br>
+🔗 LinkedIn: [https://www.linkedin.com/in/ivelin-banchev/](https://www.linkedin.com/in/ivelin-banchev/) <br>
+🔗 Website: [https://banchev.info/contacts/](https://banchev.info/contacts/) <br>
 
 <hr>
 
