@@ -35,19 +35,6 @@ Now, I challenge myself daily to expand my knowledge, solve complex problems, an
 
 <hr>
 
-### 🌱 My 2024 Q3 & Q4 goals
-
-• ~~Complete my portfolio website~~ <br>
-• ~~Enroll in a TypeScript course~~ <br>
-• ~~Enroll in a full React course (incl. Next.js & Redux)~~ <br>
-• Enroll in a React Native course <br>
-• Enroll in a MongoDB course <br>
-• ~~Work on my personal projects~~ <br>
-• ~~Land a front-end job by the end of the year~~ <br>
-• ~~Do some WordPress freelancing to stay alive in the meantime 😅~~
-
-<hr>
-
 ### 🤝 Let's connect
 
 🔗 LinkedIn: [https://www.linkedin.com/in/ivelin-banchev/](https://www.linkedin.com/in/ivelin-banchev/) <br>
