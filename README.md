@@ -46,5 +46,3 @@ Updated March 2025
 🔗 LinkedIn: [https://www.linkedin.com/in/ivelin-banchev/](https://www.linkedin.com/in/ivelin-banchev/) <br>
 🔗 Website: [https://banchev.info/contacts/](https://banchev.info/contacts/) <br>
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=banch3v&label=Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
