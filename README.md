@@ -32,8 +32,6 @@ Now, I challenge myself daily to expand my knowledge, solve complex problems, an
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-[![Programming Tech Stack](https://example.com/screenshot.png)](https://banchev.info/programming-tech-stack/)
-
 <hr>
 
 ### 🤝 Let's connect
