@@ -35,7 +35,7 @@ Now, I challenge myself daily to expand my knowledge, solve complex problems, an
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
 <br>
-updated March 2025
+Updated March 2025
 <hr>
 
 ### 🤝 Let's connect
