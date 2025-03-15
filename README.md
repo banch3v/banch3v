@@ -8,9 +8,9 @@ With six years of experience as a low-code WordPress developer and SEO expert, I
 
 In January 2024, I made a well thought move to quit my full-time job and enroll in the Telerik Academy JavaScript Alpha program. Six months later, I successfully graduated, earning accolades by the trainers for:<br>
 • Being one of the best-performing alumni <br>
-• Best final project: [Telerik Event Calendar](https://telerik-event-calendar.netlify.app/) <br>
+• Best final project: [Telerik Event Calendar](https://telerik-event-calendar.netlify.app/) <be>
 
-Now, I challenge myself daily to expand my knowledge, solve complex problems, and master new technologies.
+A few months after graduating, I secured my first job as a software developer. Now, I challenge myself daily to expand my knowledge, solve complex problems, and master new technologies.
 
 <hr>
 
